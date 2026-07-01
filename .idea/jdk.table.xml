@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JdkTable">
+    <jdk version="2">
+      <name value="jbr-17" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;17.0.11&quot;" />
+      <homePath value="C:/Program Files/Android/Android Studio/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Android/Android Studio/jbr!/modules/java.base.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+com.ecommerce.app-lifecycle-livedata-2.7.0-0 C:\Users\SRI\.gradle\caches\transforms-3\0230183dfe4c2280a851b7d99564b174\transformed\lifecycle-livedata-2.7.0\res
+com.ecommerce.app-material-1.11.0-1 C:\Users\SRI\.gradle\caches\transforms-3\1eacd0dd371e6bea9998ea1d70bbd6a7\transformed\material-1.11.0\res
+com.ecommerce.app-core-ktx-1.9.0-2 C:\Users\SRI\.gradle\caches\transforms-3\1fa2c2418e662430c173fa7f46206705\transformed\core-ktx-1.9.0\res
+com.ecommerce.app-drawerlayout-1.1.1-3 C:\Users\SRI\.gradle\caches\transforms-3\25290a2414e55ab01187521b81c0d97e\transformed\drawerlayout-1.1.1\res
+com.ecommerce.app-savedstate-1.2.1-4 C:\Users\SRI\.gradle\caches\transforms-3\293746ab1887ff4338430fefe134760f\transformed\savedstate-1.2.1\res
+com.ecommerce.app-window-1.0.0-5 C:\Users\SRI\.gradle\caches\transforms-3\294338da572797e26ad928a356e8eb8a\transformed\window-1.0.0\res
+com.ecommerce.app-customview-poolingcontainer-1.0.0-6 C:\Users\SRI\.gradle\caches\transforms-3\2e5171a2fe45008bae4b6a57688f29eb\transformed\customview-poolingcontainer-1.0.0\res
+com.ecommerce.app-activity-1.8.0-7 C:\Users\SRI\.gradle\caches\transforms-3\307e2f3009578e790d65f215635cca7c\transformed\activity-1.8.0\res
+com.ecommerce.app-lifecycle-runtime-ktx-2.7.0-8 C:\Users\SRI\.gradle\caches\transforms-3\352ef6595544ac001abceb062a26a792\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.ecommerce.app-sqlite-2.4.0-9 C:\Users\SRI\.gradle\caches\transforms-3\3ab3808e22f276e92a7767b0b2c009b1\transformed\sqlite-2.4.0\res
+com.ecommerce.app-cardview-1.0.0-10 C:\Users\SRI\.gradle\caches\transforms-3\3c225a63236276c9409325beeb5f32c1\transformed\cardview-1.0.0\res
+com.ecommerce.app-lifecycle-livedata-core-2.7.0-11 C:\Users\SRI\.gradle\caches\transforms-3\409f1a2fa1221f1fdb023b3163e864c1\transformed\lifecycle-livedata-core-2.7.0\res
+com.ecommerce.app-room-runtime-2.6.1-12 C:\Users\SRI\.gradle\caches\transforms-3\54f8217338ce6964ac3ed888b8786bb5\transformed\room-runtime-2.6.1\res
+com.ecommerce.app-emoji2-1.2.0-13 C:\Users\SRI\.gradle\caches\transforms-3\5a392d6b69276cd18c3adcb1373760d2\transformed\emoji2-1.2.0\res
+com.ecommerce.app-swiperefreshlayout-1.1.0-14 C:\Users\SRI\.gradle\caches\transforms-3\6cdd79b5749d0dff3f577c0b86bc8d11\transformed\swiperefreshlayout-1.1.0\res
+com.ecommerce.app-core-1.9.0-15 C:\Users\SRI\.gradle\caches\transforms-3\6f8351144a3048301d3f5a7e6b4f466f\transformed\core-1.9.0\res
+com.ecommerce.app-startup-runtime-1.1.1-16 C:\Users\SRI\.gradle\caches\transforms-3\7ac38a8fdd5910b25fa6a07482932853\transformed\startup-runtime-1.1.1\res
+com.ecommerce.app-core-runtime-2.2.0-17 C:\Users\SRI\.gradle\caches\transforms-3\7b0330197325fd7ce79734737abe6020\transformed\core-runtime-2.2.0\res
+com.ecommerce.app-transition-1.4.1-18 C:\Users\SRI\.gradle\caches\transforms-3\7fd52d2535af65bf4a3fc1b40bac73b4\transformed\transition-1.4.1\res
+com.ecommerce.app-fragment-1.6.2-19 C:\Users\SRI\.gradle\caches\transforms-3\82ec5854636e488aca91d0bc3aa1bddc\transformed\fragment-1.6.2\res
+com.ecommerce.app-navigation-runtime-2.7.7-20 C:\Users\SRI\.gradle\caches\transforms-3\871d4e52f8036aaf560aa0fdaa316d62\transformed\navigation-runtime-2.7.7\res
+com.ecommerce.app-navigation-common-2.7.7-21 C:\Users\SRI\.gradle\caches\transforms-3\8934cabaf63e9621fb5b9fddf28ac2f3\transformed\navigation-common-2.7.7\res
+com.ecommerce.app-viewpager2-1.1.0-beta02-22 C:\Users\SRI\.gradle\caches\transforms-3\90048840edab954b2e4045f80f9b47f0\transformed\viewpager2-1.1.0-beta02\res
+com.ecommerce.app-navigation-fragment-2.7.7-23 C:\Users\SRI\.gradle\caches\transforms-3\9812779cae6538dfd7d5c4351cc86ca1\transformed\navigation-fragment-2.7.7\res
+com.ecommerce.app-fragment-ktx-1.6.2-24 C:\Users\SRI\.gradle\caches\transforms-3\981d01bb1cfb3f2aab2b4e22abb0f088\transformed\fragment-ktx-1.6.2\res
+com.ecommerce.app-profileinstaller-1.3.0-25 C:\Users\SRI\.gradle\caches\transforms-3\99e4870ed74b1fee59dc4406e0b1019c\transformed\profileinstaller-1.3.0\res
+com.ecommerce.app-appcompat-resources-1.6.1-26 C:\Users\SRI\.gradle\caches\transforms-3\a0360484cb7b778e89c939ec4b1e0df4\transformed\appcompat-resources-1.6.1\res
+com.ecommerce.app-lifecycle-process-2.7.0-27 C:\Users\SRI\.gradle\caches\transforms-3\a25b7b3c6109b25bfc9a09bcf74cddfe\transformed\lifecycle-process-2.7.0\res
+com.ecommerce.app-lifecycle-runtime-2.7.0-28 C:\Users\SRI\.gradle\caches\transforms-3\a8a4f786fc527ecac8a431af154b823b\transformed\lifecycle-runtime-2.7.0\res
+com.ecommerce.app-emoji2-views-helper-1.2.0-29 C:\Users\SRI\.gradle\caches\transforms-3\acdf97e0f0a506d24b4ec52f48176f88\transformed\emoji2-views-helper-1.2.0\res
+com.ecommerce.app-lifecycle-viewmodel-savedstate-2.7.0-30 C:\Users\SRI\.gradle\caches\transforms-3\b19aa64dc4bc25e3bf9321bfe3b5e79c\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.ecommerce.app-lifecycle-viewmodel-ktx-2.7.0-31 C:\Users\SRI\.gradle\caches\transforms-3\b98dfaa569c2e62276f66c09391a8e03\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.ecommerce.app-glide-4.16.0-32 C:\Users\SRI\.gradle\caches\transforms-3\bee2d196cd8b606cdefa32356a4c190b\transformed\glide-4.16.0\res
+com.ecommerce.app-appcompat-1.6.1-33 C:\Users\SRI\.gradle\caches\transforms-3\befda3d5d26a3054a599e9ab75af6515\transformed\appcompat-1.6.1\res
+com.ecommerce.app-slidingpanelayout-1.2.0-34 C:\Users\SRI\.gradle\caches\transforms-3\c22d94a9fdcfc11910ae3fe4bb3232c0\transformed\slidingpanelayout-1.2.0\res
+com.ecommerce.app-savedstate-ktx-1.2.1-35 C:\Users\SRI\.gradle\caches\transforms-3\c4621048964d1a6f0473751a062c47a4\transformed\savedstate-ktx-1.2.1\res
+com.ecommerce.app-coordinatorlayout-1.1.0-36 C:\Users\SRI\.gradle\caches\transforms-3\c52ce2642fdbf3bc6ac612005557c087\transformed\coordinatorlayout-1.1.0\res
+com.ecommerce.app-navigation-ui-2.7.7-37 C:\Users\SRI\.gradle\caches\transforms-3\cb5b451bed3684e62d6aefec60b1b845\transformed\navigation-ui-2.7.7\res
+com.ecommerce.app-lifecycle-viewmodel-2.7.0-38 C:\Users\SRI\.gradle\caches\transforms-3\cd4444470366a91fb2e75b2f89ba956a\transformed\lifecycle-viewmodel-2.7.0\res
+com.ecommerce.app-lifecycle-livedata-core-ktx-2.7.0-39 C:\Users\SRI\.gradle\caches\transforms-3\d0cbc0f0ad5019a041ccae012a843514\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.ecommerce.app-recyclerview-1.3.2-40 C:\Users\SRI\.gradle\caches\transforms-3\d569ed2798c55c5a7af778a4062116dc\transformed\recyclerview-1.3.2\res
+com.ecommerce.app-annotation-experimental-1.3.1-41 C:\Users\SRI\.gradle\caches\transforms-3\d87d7d5d7444ac8bdd44adea31dc519c\transformed\annotation-experimental-1.3.1\res
+com.ecommerce.app-sqlite-framework-2.4.0-42 C:\Users\SRI\.gradle\caches\transforms-3\e2dd233010ac481eb0b94bffbf12b5a9\transformed\sqlite-framework-2.4.0\res
+com.ecommerce.app-activity-ktx-1.8.0-43 C:\Users\SRI\.gradle\caches\transforms-3\e5ace7056953c0eb9601abc58e310f02\transformed\activity-ktx-1.8.0\res
+com.ecommerce.app-constraintlayout-2.1.4-44 C:\Users\SRI\.gradle\caches\transforms-3\fff91d812f0dd23423e8685c16ce431e\transformed\constraintlayout-2.1.4\res
+com.ecommerce.app-pngs-45 C:\Users\SRI\Downloads\project P\ecommerce-android\app\build\generated\res\pngs\debug
+com.ecommerce.app-resValues-46 C:\Users\SRI\Downloads\project P\ecommerce-android\app\build\generated\res\resValues\debug
+com.ecommerce.app-packageDebugResources-47 C:\Users\SRI\Downloads\project P\ecommerce-android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.ecommerce.app-packageDebugResources-48 C:\Users\SRI\Downloads\project P\ecommerce-android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.ecommerce.app-merged_res-49 C:\Users\SRI\Downloads\project P\ecommerce-android\app\build\intermediates\merged_res\debug
+com.ecommerce.app-debug-50 C:\Users\SRI\Downloads\project P\ecommerce-android\app\src\debug\res
+com.ecommerce.app-main-51 C:\Users\SRI\Downloads\project P\ecommerce-android\app\src\main\res
